@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'JavaJSP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E57335F02AE74789BBE48D64D846AB8B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DABBD7B018F94E27B943D72C5740CA14 }}
           package: '*.war'
