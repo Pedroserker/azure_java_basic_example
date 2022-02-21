@@ -21,7 +21,7 @@
 
         <hr>
 
-        <p>Pedro Antonio</p>
+        <p><a href="#">Pedro Antonio</a></p>
     </div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
